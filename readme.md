@@ -1,4 +1,4 @@
-####list interpreter for rc pairing interview
+####lisp interpreter for rc pairing interview
 
 `run.py` calls parse and interpret on input string.
 
